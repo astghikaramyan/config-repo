@@ -1,0 +1,6 @@
+server:
+  port: 8081   # overrides local if provided
+
+configuration:
+  test:
+    message: "Config changes sync with config repo Server!"

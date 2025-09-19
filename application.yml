@@ -1,0 +1,3 @@
+configuration:
+  test:
+    message: "Config changes sync with config repo Server!"

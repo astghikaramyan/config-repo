@@ -3,4 +3,4 @@ server:
 
 configuration:
   test:
-    message: "Hello from song service central configuration!"
+    message: "Hello from song service central config!"
